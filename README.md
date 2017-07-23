@@ -1,5 +1,7 @@
 # revealjs-docker
 
+A dockerized version of the [Reveal JS](https://github.com/hakimel/reveal.js)
+
 ## Build
 
 ```sh
