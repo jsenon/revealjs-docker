@@ -1,4 +1,8 @@
 FROM node:latest
+LABEL maintainer="julien.senon@gmail.com"
+LABEL version="0.2"
+LABEL description="Revealjs Docker"
+
 
 RUN apt-get update \
     && apt-get install git
