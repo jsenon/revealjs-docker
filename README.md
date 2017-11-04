@@ -5,7 +5,7 @@ A dockerized version of the [Reveal JS](https://github.com/hakimel/reveal.js)
 ## Build
 
 ```sh
-docker build . -t jsenon/revealjs-docker:X.X
+docker build . -t jsenon/revealjs-docker:x.x
 ```
 
 ## Launch
